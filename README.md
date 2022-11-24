@@ -1,2 +1,2 @@
-# Python-RPG-Game
+# Python RPG Game
 Python game i am making
